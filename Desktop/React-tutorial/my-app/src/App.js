@@ -7,7 +7,7 @@ import "./App.css";
 function App() {
   return (
     <>
-      <p className="title">Регистрация</p>
+      <p className="title">Регистрация Кентов</p>
   
       <form className="App">
         Имя
